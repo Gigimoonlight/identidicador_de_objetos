@@ -1,0 +1,57 @@
+  .heading
+  {
+    font-size:50px;
+    width:100%;
+    margin:0;
+    box-shadow:5px 5px 5px black;
+    color:black;
+    background-color: rgb(22, 30, 102);
+   
+  }
+  .headingDiv
+  {
+    background-color:rgb(127, 197, 255);
+    padding:10px;
+    border-radius:20px;
+    color:rgb(44, 1, 83);
+    box-shadow:5px 5px 5px black;
+    float:none;
+    font-size:30px;
+ 
+  }
+  .headingDiv2
+  {
+    font-size: 18px ;
+  }
+  .resultToTag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .resultToTag span
+  {
+    white-space: pre-line;
+  }
+  .copyRightFooter {
+    position:fixed;
+    bottom:0;
+    color:azure;
+    background-color:rgb(0, 0, 0);
+    text-align:center;
+    font-size:15px;
+    width:100%;
+    line-height:2;
+ }
+  canvas 
+  {
+    border:5px double black;
+    border-radius:20px;
+    box-shadow: pink 0px 7px 15px, pink 0px -7px 15px, pink 0px -3px 5px;
+    margin-top:160px;
+ 
+  }
+
+  .resultToTag{
+    color:black;
+  }
+ 
